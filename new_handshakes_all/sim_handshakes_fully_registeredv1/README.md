@@ -1,0 +1,1 @@
+将backward和forward，结合起来实现fully_register
